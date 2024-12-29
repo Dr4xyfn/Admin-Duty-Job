@@ -7,5 +7,3 @@ RegisterCommand('duty', function(s, a, r)
     -- Majd hívjuk meg a customDuty:checkGroup eseményt
     TriggerServerEvent('customDuty:checkGroup')
 end, false)
-
-Mindenképpen Hozz létre admin jobot 11 geradeval
